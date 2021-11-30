@@ -5,7 +5,7 @@ This is a simple project for demonstrating laravel websocket.
 ### Clone project
 
 ```bash
-git clone <url>
+git clone git@github.com:hk2cmpny/laravel-websocket-demo.git
 ```
 
 ### Install dependancies
