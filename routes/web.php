@@ -19,6 +19,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/demo', function() { return "testing"; });
+
 
 Route::get('/webhook/{sensor}', function($sensor) {
 
